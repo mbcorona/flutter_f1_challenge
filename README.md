@@ -1,6 +1,9 @@
 # f1_challenge
 
-A new Flutter project.
+## DEMO
+https://user-images.githubusercontent.com/14170258/181406131-2c1950a6-b4c7-479e-8c57-ecdb212a6f57.mp4
+
+## Inspiration: https://dribbble.com/shots/18327533-Formula-1-App
 
 ## Getting Started
 
